@@ -44,26 +44,26 @@ This interactive graph takes a similar approach to the graph above, but filters 
 
 ![trips_weekday](https://user-images.githubusercontent.com/108373151/194726708-31f78b1f-ce03-4643-a794-fa398e5007fe.jpg)
 
-This heatmap shows the peak usage as it compares from a weekday to a weekend. Weekends see more evenly distributed usage throughout the day, while weekdays have high usage during commute times.
+This interactive heatmap shows the peak usage as it compares from a weekday to a weekend. Weekends see more evenly distributed usage throughout the day, while weekdays have high usage during commute times and less usage during the day..
 
 #### *User trips separated by gedner, weekday and hour*
 
 ![trips_weekday_gender](https://user-images.githubusercontent.com/108373151/194726713-1ac312f2-4208-4c54-a2a4-a5b3ed10ae5e.jpg)
 
-Again, this heatmap takes a similar approach to the heatmap above, but takes it one step further by filtering on gender. It shows that individuals who identify as male are the heaviest users, not only during commute times, but also on the weekends.
+Again, this interactive heatmap takes a similar approach to the heatmap above, but takes it one step further by filtering on gender. It shows that individuals who identify as male are the heaviest users, not only during commute times, but also on the weekends.
 
 #### *User trips separated by gender and type of user*
 
 ![trips_weekday_gender_type](https://user-images.githubusercontent.com/108373151/194726720-c746717f-adea-4fbb-afe3-8e64e49d4c76.jpg)
 
-This heatmap takes a similar approach to the two maps above, but it focuses on those users who are subscribers versus regular customers. This heatmap shows the majority of users who identify as male are also subscribers.
+This interactive heatmap takes a similar approach to the two heatmaps above, but it focuses on those users who are subscribers versus regular customers. This heatmap shows the majority of users who identify as male are also subscribers.
 
 ## Summary
 
 Considering the results of this data, I would recommend the majority of the bike shares be placed at or near downtown Des Moines, Iowa and popular attractions in the area. Tourists may want to use the bikes to get around rather than other available methods of transport. However, it seems like the majority of users are subscribers who use the bikes for regular commute to and from their workplace. Because of this, I would also recommend placing bike share stops around the community to be used for those regular commuters.
 
-# Further Recommendations
+### Further Recommendations
 
 - Separate the duration of trips into buckets. Suggested buckets could be 5 minutes or less, then in 10 minute increments after that. A bar graph of these buckets could determine how long of a bike ride that users are willing to take, and help identify any outliers. This analysis would create a radius of how far from downtown out into the suburban community to place bikes.
 
-- Separtion of starting locations of trips into hours. This would assist in determining the flow of bikes as people commute and the needed availability in specific locations during peak times and in peak locations.
+- Separation of starting locations of trips into hours. This would assist in determining the flow of bikes as people commute and the needed availability in specific locations during peak times and in peak locations.
