@@ -1,3 +1,9 @@
+# Resources files too large to add to GitHub
+
+Resources/201908-citibike-tripdata.csv
+Resources/converted_tripduration.csv
+Resources/converted_tripduration.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
